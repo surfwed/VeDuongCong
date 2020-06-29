@@ -1,0 +1,14 @@
+﻿  Source.cpp
+d:\visualstudiosourcecode\javidx9spline\javidx9spline\olcconsolegameengine.h(767): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\visualstudiosourcecode\javidx9spline\javidx9spline\olcconsolegameengine.h(1107): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\visualstudiosourcecode\javidx9spline\javidx9spline\olcconsolegameengine.h(1204): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+d:\visualstudiosourcecode\javidx9spline\javidx9spline\source.cpp(37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\visualstudiosourcecode\javidx9spline\javidx9spline\source.cpp(74): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\visualstudiosourcecode\javidx9spline\javidx9spline\source.cpp(124): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\visualstudiosourcecode\javidx9spline\javidx9spline\source.cpp(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\visualstudiosourcecode\javidx9spline\javidx9spline\source.cpp(159): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\visualstudiosourcecode\javidx9spline\javidx9spline\source.cpp(160): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\visualstudiosourcecode\javidx9spline\javidx9spline\source.cpp(162): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\visualstudiosourcecode\javidx9spline\javidx9spline\source.cpp(163): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\visualstudiosourcecode\javidx9spline\javidx9spline\source.cpp(169): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Javidx9Spline.vcxproj -> D:\VisualStudioSourceCode\Javidx9Spline\x64\Debug\Javidx9Spline.exe
